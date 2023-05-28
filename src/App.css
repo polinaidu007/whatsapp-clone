@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.selected-chat {
+  /* background-color: #F0F2F5; */
+  background-color: #1d3963;
+
+}
+
